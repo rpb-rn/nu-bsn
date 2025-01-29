@@ -1,0 +1,70 @@
+#pharmacology #nursing 
+
+**Anti-Inflammatory Drugs**
+- **NSAIDS**
+	- First line of drugs for mild-moderate inflammation
+	- inhibiting the synthesis of prostaglandins
+	- **==Ibuprofen==**
+		- Mechanism
+			- treatment of mild to moderate pain, fever, and inflammation.
+			- efficacy is equivalent to that of aspirin and other NSAIDs
+			- Due to inhibition of prostaglandin synthesis
+			- indications include pain associated with chronic musculoskeletal disorders, such as RA and osteoarthritis, headache, dental pain, and dysmenorrhea.
+		- Administration Alerts
+			- Give on empty stomach
+			- Asthma or allergies may have hypersensitivity
+			- Caution: pregnancy. NSAID increases pregnancy risk.
+			- DO NOT USE IN LATE PREGNANCY! (may prematurely close fetal ductus arteriosus)
+		- Adverse Effects
+			- nausea, heartburn, epigastric pain, and dizziness
+			- Serious: GI bleeding, ulceration, and perforation of the stomach or intestines
+			- may cause an increased risk of thrombotic events, MI, and stroke, which can be fatal
+		- Contraindications
+			- for the treatment of perioperative pain in those undergoing coronary artery bypass graft surgery
+			 - CKD or hepatic impairment
+- **Corticosteroids** - should only be used for 1-3 weeks, then switch to NSAID
+	- ==**Prednisone**==
+		- Class - anti-inflammatory, corticosteroid
+		- Actions and Uses
+			- allergic and inflammatory disorders
+			- metabolized to an active form, which is also available as a drug called prednisolone
+			- When used for inflammation, duration of therapy is commonly limited to 4 to 10 days.
+			- For long-term therapy, alternate-day dosing is often used, and the dosage is gradually lowered.
+			- occasionally used to terminate acute bronchospasm in patients with asthma and as an antineoplastic drug for patients with certain cancers, such as Hodgkin’s disease, acute leukemia, and lymphomas.
+			- Available in tablet and oral solution forms.
+		- Administration Alerts
+			- Administer with food and do not chew or divide tablets.
+			- Do not use it if signs of a systemic infection are present.
+			- When using the drug for more than 10 days, the dose must be slowly tapered.
+			- May cause fetal harm
+			- Do not use if breastfeeding
+			- Do not stop abruptly! Taper of if used longer than 1-2 weeks
+			- Adrenal insufficiency and crisis may occur with profound hypotension, tachycardia, and other adverse effects if the drug is stopped abruptly.
+		- Adverse Effects
+			- few serious adverse effects.
+			- Long-term therapy may result in Cushing syndrome, a condition that includes hyperglycemia, fat redistribution to the shoulders and face, muscle weakness, bruising, and bones that easily fracture.
+			- Because gastric ulcers may occur with long-term therapy, an antiulcer medication may be prescribed prophylactically. Use with caution in patients with peptic ulcer, ulcerative colitis, or diverticulitis. Mood changes, increased appetite, and weight gain may occur.
+		- Contraindications:
+			- Patients with serious viral, bacterial, fungal, or protozoan infections should not take prednisone.
+
+**Antipyretics**
+- **Acetaminophen**
+	- Class - antipyretic, analgesic, para-aminophenol derivative
+	- Actions and Uses
+		- Reduces fever by direct action at the level of the hypothalamus and dilation of peripheral blood vessels, which enables sweating and dissipation of heat.
+		- has no anti-inflammatory properties; therefore, it is not effective in treating arthritis or pain caused by tissue swelling following injury.
+		- The primary therapeutic is for the treatment of fever in children and for relief of mild to moderate pain when aspirin is contraindicated.
+		- may be combined with opioids - for synergistic dosing
+		- Acetaminophen has no effect on platelet aggregation and does not exhibit cardiotoxicity.
+		- Does not cause GI bleeding or ulcers or cause Reye syndrome in children (unlike NSAIDs)
+	- Administration Alert
+		- Never administer to patients who consume alcohol regularly due to the potential for drug-induced hepatotoxicity.
+		- extreme care must be taken to not duplicate doses by taking several products concurrently
+		- safe for pregnant
+	- Adverse
+		- generally safe, and adverse effects are uncommon at therapeutic doses.
+		- Excessive acetaminophen use, especially when combined with alcohol use, is the number one cause of acute liver failure in the United States.
+		- Chronic ingestion results in neutropenia, pancytopenia, leukopenia, thrombocytopenic purpura, and CKD.
+		- Stevens–Johnson syndrome
+	- Contraindications
+		- Hypersensitivity to acetaminophen or phenacetin and chronic alcohol consumption.
