@@ -1,0 +1,427 @@
+{
+  "vaultName": "BSN-NU",
+  "lastExport": 1738189661992,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Community Health I/Community Health I.md",
+    "Community Health II/Community Health 2.md",
+    "Foundations/Notes/General Nursing.md",
+    "Foundations/Notes/Health Promotion.md",
+    "Foundations/Notes/Lab Values & Electrolytes.md",
+    "Foundations/Notes/Nutrition.md",
+    "Foundations/Notes/Phsyical Ass.md",
+    "Foundations/Finals Review Plan.md",
+    "Foundations/Fundamentals Proctored To do List.md",
+    "General/Homepage.md",
+    "Med-Surg/MS-I Files/ATI Assignments.md",
+    "Med-Surg/MS-I Files/Class Notes.md",
+    "Med-Surg/MS-I Files/Clinicals Homework.md",
+    "Med-Surg/MS-I Files/Exam Coverage.md",
+    "Med-Surg/MS-I Files/Exam I.md",
+    "Med-Surg/MS-I Files/Weekly Topics.md",
+    "Med-Surg/Notes Medsurg/Cardiovascular/CAD & MI.md",
+    "Med-Surg/Notes Medsurg/Cardiovascular/Cardiovascular v2.md",
+    "Med-Surg/Notes Medsurg/Cardiovascular/EKG.md",
+    "Med-Surg/Notes Medsurg/Cardiovascular/Endocarditis.md",
+    "Med-Surg/Notes Medsurg/Cardiovascular/Heart Failure.md",
+    "Med-Surg/Notes Medsurg/GI/Hepatitis.md",
+    "Med-Surg/Notes Medsurg/Respiratory/Asthma.md",
+    "Med-Surg/Notes Medsurg/Respiratory/ATI Comp - Resp.md",
+    "Med-Surg/Notes Medsurg/Respiratory/Respiratory.md",
+    "Med-Surg/Notes Medsurg/Acid Base Balance.md",
+    "Med-Surg/Notes Medsurg/Electrolyte Cheat Sheets.md",
+    "Med-Surg/Notes Medsurg/Fluid & Electrolyte Imbalances.md",
+    "Med-Surg/Notes Medsurg/Hematological.md",
+    "Med-Surg/Notes Medsurg/Perioperative Care.md",
+    "OB/Ob.md",
+    "Peds/Pediatrics.md",
+    "Pharmacology I/Analgesia.md",
+    "Pharmacology I/Anesthetics.md",
+    "Pharmacology I/Antipyretic and Anti-Inflammatory.md",
+    "Pharmacology I/Coagulation.md",
+    "Pharmacology I/Diuretics.md",
+    "Pharmacology I/Heart Failure.md",
+    "Pharmacology I/Hypertension.md",
+    "Pharmacology I/Lipid Disorders.md",
+    "Pharmacology I/Migraines.md",
+    "Pharmacology I/Respiratory Meds.md",
+    "Psych/Psychiatric Nursing.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "Community Health I/Community Health I.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 25,
+      "exportedPath": "Community Health I/Community Health I.html",
+      "dependencies": []
+    },
+    "Community Health II/Community Health 2.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 25,
+      "exportedPath": "Community Health II/Community Health 2.html",
+      "dependencies": []
+    },
+    "Foundations/Notes/General Nursing.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5669,
+      "exportedPath": "Foundations/Notes/General Nursing.html",
+      "dependencies": []
+    },
+    "Foundations/Notes/Health Promotion.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5752,
+      "exportedPath": "Foundations/Notes/Health Promotion.html",
+      "dependencies": []
+    },
+    "Foundations/Notes/Lab Values & Electrolytes.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 11563,
+      "exportedPath": "Foundations/Notes/Lab Values & Electrolytes.html",
+      "dependencies": []
+    },
+    "Foundations/Notes/Nutrition.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 185,
+      "exportedPath": "Foundations/Notes/Nutrition.html",
+      "dependencies": []
+    },
+    "Foundations/Notes/Phsyical Ass.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 2087,
+      "exportedPath": "Foundations/Notes/Phsyical Ass.html",
+      "dependencies": []
+    },
+    "Foundations/Finals Review Plan.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 267,
+      "exportedPath": "Foundations/Finals Review Plan.html",
+      "dependencies": []
+    },
+    "Foundations/Fundamentals Proctored To do List.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 307,
+      "exportedPath": "Foundations/Fundamentals Proctored To do List.html",
+      "dependencies": []
+    },
+    "General/Homepage.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 439,
+      "exportedPath": "General/Homepage.html",
+      "dependencies": []
+    },
+    "Med-Surg/MS-I Files/ATI Assignments.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 660,
+      "exportedPath": "Med-Surg/MS-I Files/ATI Assignments.html",
+      "dependencies": []
+    },
+    "Med-Surg/MS-I Files/Class Notes.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 57,
+      "exportedPath": "Med-Surg/MS-I Files/Class Notes.html",
+      "dependencies": []
+    },
+    "Med-Surg/MS-I Files/Clinicals Homework.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 390,
+      "exportedPath": "Med-Surg/MS-I Files/Clinicals Homework.html",
+      "dependencies": []
+    },
+    "Med-Surg/MS-I Files/Exam Coverage.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 1251,
+      "exportedPath": "Med-Surg/MS-I Files/Exam Coverage.html",
+      "dependencies": []
+    },
+    "Med-Surg/MS-I Files/Exam I.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 2145,
+      "exportedPath": "Med-Surg/MS-I Files/Exam I.html",
+      "dependencies": []
+    },
+    "Med-Surg/MS-I Files/Weekly Topics.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5259,
+      "exportedPath": "Med-Surg/MS-I Files/Weekly Topics.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Cardiovascular/CAD & MI.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5452,
+      "exportedPath": "Med-Surg/Notes Medsurg/Cardiovascular/CAD & MI.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Cardiovascular/Cardiovascular v2.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 4654,
+      "exportedPath": "Med-Surg/Notes Medsurg/Cardiovascular/Cardiovascular v2.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Cardiovascular/EKG.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5028,
+      "exportedPath": "Med-Surg/Notes Medsurg/Cardiovascular/EKG.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Cardiovascular/Endocarditis.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 3239,
+      "exportedPath": "Med-Surg/Notes Medsurg/Cardiovascular/Endocarditis.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Cardiovascular/Heart Failure.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 2270,
+      "exportedPath": "Med-Surg/Notes Medsurg/Cardiovascular/Heart Failure.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/GI/Hepatitis.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 63,
+      "exportedPath": "Med-Surg/Notes Medsurg/GI/Hepatitis.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Respiratory/Asthma.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 6538,
+      "exportedPath": "Med-Surg/Notes Medsurg/Respiratory/Asthma.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Respiratory/ATI Comp - Resp.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 514,
+      "exportedPath": "Med-Surg/Notes Medsurg/Respiratory/ATI Comp - Resp.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Respiratory/Respiratory.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 12854,
+      "exportedPath": "Med-Surg/Notes Medsurg/Respiratory/Respiratory.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Acid Base Balance.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 1128,
+      "exportedPath": "Med-Surg/Notes Medsurg/Acid Base Balance.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Electrolyte Cheat Sheets.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 4245,
+      "exportedPath": "Med-Surg/Notes Medsurg/Electrolyte Cheat Sheets.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Fluid & Electrolyte Imbalances.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 13948,
+      "exportedPath": "Med-Surg/Notes Medsurg/Fluid & Electrolyte Imbalances.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Hematological.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 15003,
+      "exportedPath": "Med-Surg/Notes Medsurg/Hematological.html",
+      "dependencies": []
+    },
+    "Med-Surg/Notes Medsurg/Perioperative Care.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5233,
+      "exportedPath": "Med-Surg/Notes Medsurg/Perioperative Care.html",
+      "dependencies": []
+    },
+    "OB/Ob.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 12,
+      "exportedPath": "OB/Ob.html",
+      "dependencies": []
+    },
+    "Peds/Pediatrics.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 28,
+      "exportedPath": "Peds/Pediatrics.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Analgesia.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 24,
+      "exportedPath": "Pharmacology I/Analgesia.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Anesthetics.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5009,
+      "exportedPath": "Pharmacology I/Anesthetics.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Antipyretic and Anti-Inflammatory.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 4629,
+      "exportedPath": "Pharmacology I/Antipyretic and Anti-Inflammatory.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Coagulation.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 2144,
+      "exportedPath": "Pharmacology I/Coagulation.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Diuretics.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 3055,
+      "exportedPath": "Pharmacology I/Diuretics.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Heart Failure.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 1786,
+      "exportedPath": "Pharmacology I/Heart Failure.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Hypertension.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 1673,
+      "exportedPath": "Pharmacology I/Hypertension.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Lipid Disorders.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5373,
+      "exportedPath": "Pharmacology I/Lipid Disorders.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Migraines.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 1126,
+      "exportedPath": "Pharmacology I/Migraines.html",
+      "dependencies": []
+    },
+    "Pharmacology I/Respiratory Meds.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 5477,
+      "exportedPath": "Pharmacology I/Respiratory Meds.html",
+      "dependencies": []
+    },
+    "Psych/Psychiatric Nursing.md": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 21,
+      "exportedPath": "Psych/Psychiatric Nursing.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1738189661992,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
