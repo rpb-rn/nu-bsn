@@ -1,6 +1,6 @@
 {
   "vaultName": "Rob's Notes",
-  "lastExport": 1740068096573,
+  "lastExport": 1740099953171,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon iconic-bigger-icons iconic-theme-btopaz",
   "useCustomHeadContent": false,
@@ -8,6 +8,7 @@
   "files": [
     "Community Health I/Community Health I.md",
     "Community Health II/Community Health 2.md",
+    "Foundations/Isolation & Precautions/Neutropenic Precautions.md",
     "Foundations/Labs/CBC.md",
     "Foundations/Labs/CMP.md",
     "Foundations/Labs/Coags.md",
@@ -85,6 +86,7 @@
     "Med-Surg I/Notes/Immunity & Inflammation/Rheumatoid Arthritis.md",
     "Med-Surg I/Notes/Immunity & Inflammation/Sinusitis.md",
     "Med-Surg I/Notes/Msk/Fractures.md",
+    "Med-Surg I/Notes/Msk/Osteoporosis.md",
     "Med-Surg I/Notes/Msk/Sprains.md",
     "Med-Surg I/Notes/Neuro/Cognition/Alzheimers.md",
     "Med-Surg I/Notes/Neuro/Cognition/Delirium.md",
@@ -120,6 +122,9 @@
     "Med-Surg II/Neuro/TBI.md",
     "OB/Ob.md",
     "Peds/Pediatrics.md",
+    "Pharmacology/Analgesia/Analgesia.md",
+    "Pharmacology/Analgesia/Antipyretic and Anti-Inflammatory.md",
+    "Pharmacology/Analgesia/Opioids.md",
     "Pharmacology/CardioVascular/Anticoagulants.md",
     "Pharmacology/CardioVascular/Antiplatelets.md",
     "Pharmacology/CardioVascular/Diuretics.md",
@@ -133,9 +138,8 @@
     "Pharmacology/Endocrine/5-Alpha Reductase Inhibitors.md",
     "Pharmacology/GI Meds/5-ASA.md",
     "Pharmacology/GI Meds/PPI and H2 Blockers.md",
-    "Pharmacology/Analgesia.md",
+    "Pharmacology/Immunosuppressants/DMARDs.md",
     "Pharmacology/Anesthetics.md",
-    "Pharmacology/Antipyretic and Anti-Inflammatory.md",
     "Pharmacology/Migraines.md",
     "Pharmacology/Respiratory Meds.md",
     "Pharmacology/Triptans.md",
@@ -173,79 +177,79 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -257,7 +261,7 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -395,807 +399,831 @@
       "dependencies": []
     },
     "Community Health I/Community Health I.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 25,
       "exportedPath": "Community Health I/Community Health I.html",
       "dependencies": []
     },
     "Community Health II/Community Health 2.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 25,
       "exportedPath": "Community Health II/Community Health 2.html",
       "dependencies": []
     },
     "Foundations/General Nursing.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5669,
       "exportedPath": "Foundations/General Nursing.html",
       "dependencies": []
     },
     "Foundations/Health Promotion.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5752,
       "exportedPath": "Foundations/Health Promotion.html",
       "dependencies": []
     },
     "Foundations/Lab Values & Electrolytes.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 11563,
       "exportedPath": "Foundations/Lab Values & Electrolytes.html",
       "dependencies": []
     },
     "Foundations/Nutrition.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 185,
       "exportedPath": "Foundations/Nutrition.html",
       "dependencies": []
     },
     "Foundations/Phsyical Ass.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2087,
       "exportedPath": "Foundations/Phsyical Ass.html",
       "dependencies": []
     },
     "OB/Ob.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 12,
       "exportedPath": "OB/Ob.html",
       "dependencies": []
     },
     "Peds/Pediatrics.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 28,
       "exportedPath": "Peds/Pediatrics.html",
       "dependencies": []
     },
     "Pharmacology/CardioVascular/Diuretics.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3055,
       "exportedPath": "Pharmacology/CardioVascular/Diuretics.html",
       "dependencies": []
     },
     "Pharmacology/CardioVascular/Heart Failure.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1773,
       "exportedPath": "Pharmacology/CardioVascular/Heart Failure.html",
       "dependencies": []
     },
     "Pharmacology/CardioVascular/Hypertension.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 316,
       "exportedPath": "Pharmacology/CardioVascular/Hypertension.html",
       "dependencies": []
     },
     "Pharmacology/CardioVascular/Lipid Disorders.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5373,
       "exportedPath": "Pharmacology/CardioVascular/Lipid Disorders.html",
       "dependencies": []
     },
     "Pharmacology/GI Meds/5-ASA.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1046,
       "exportedPath": "Pharmacology/GI Meds/5-ASA.html",
       "dependencies": []
     },
     "Pharmacology/GI Meds/PPI and H2 Blockers.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1638,
       "exportedPath": "Pharmacology/GI Meds/PPI and H2 Blockers.html",
       "dependencies": []
     },
-    "Pharmacology/Analgesia.md": {
-      "modifiedTime": 1740068096573,
-      "sourceSize": 2973,
-      "exportedPath": "Pharmacology/Analgesia.html",
-      "dependencies": []
-    },
     "Pharmacology/Anesthetics.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5009,
       "exportedPath": "Pharmacology/Anesthetics.html",
       "dependencies": []
     },
-    "Pharmacology/Antipyretic and Anti-Inflammatory.md": {
-      "modifiedTime": 1740068096573,
-      "sourceSize": 4629,
-      "exportedPath": "Pharmacology/Antipyretic and Anti-Inflammatory.html",
-      "dependencies": []
-    },
     "Pharmacology/Migraines.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1126,
       "exportedPath": "Pharmacology/Migraines.html",
       "dependencies": []
     },
     "Pharmacology/Respiratory Meds.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5310,
       "exportedPath": "Pharmacology/Respiratory Meds.html",
       "dependencies": []
     },
     "Psych/Psychiatric Nursing.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 21,
       "exportedPath": "Psych/Psychiatric Nursing.html",
       "dependencies": []
     },
     "Foundations/Labs/CBC.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1618,
       "exportedPath": "Foundations/Labs/CBC.html",
       "dependencies": []
     },
     "Foundations/Labs/CMP.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2471,
       "exportedPath": "Foundations/Labs/CMP.html",
       "dependencies": []
     },
     "Foundations/Labs/Coags.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5013,
       "exportedPath": "Foundations/Labs/Coags.html",
       "dependencies": []
     },
     "Foundations/Labs/LFT.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1671,
       "exportedPath": "Foundations/Labs/LFT.html",
       "dependencies": []
     },
     "Foundations/Labs/Lipid Panel.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1947,
       "exportedPath": "Foundations/Labs/Lipid Panel.html",
       "dependencies": []
     },
     "Pharmacology/Diabetes/Biguanides - Metformin.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1839,
       "exportedPath": "Pharmacology/Diabetes/Biguanides - Metformin.html",
       "dependencies": []
     },
     "Pharmacology/Diabetes/GLP-1.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2074,
       "exportedPath": "Pharmacology/Diabetes/GLP-1.html",
       "dependencies": []
     },
     "Pharmacology/Diabetes/Insulin.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 4141,
       "exportedPath": "Pharmacology/Diabetes/Insulin.html",
       "dependencies": []
     },
     "Pharmacology/Diabetes/SGLT2 Inhibitors.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1699,
       "exportedPath": "Pharmacology/Diabetes/SGLT2 Inhibitors.html",
       "dependencies": []
     },
     "Pharmacology/Endocrine/5-Alpha Reductase Inhibitors.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1374,
       "exportedPath": "Pharmacology/Endocrine/5-Alpha Reductase Inhibitors.html",
       "dependencies": []
     },
     "General/HOMEPAGE.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 614,
       "exportedPath": "General/HOMEPAGE.html",
       "dependencies": []
     },
     "Foundations/Labs/GFR.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2008,
       "exportedPath": "Foundations/Labs/GFR.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/ATI Assignments.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 660,
       "exportedPath": "Med-Surg I/MS-I Class Files/ATI Assignments.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/ATI Question homework.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 79,
       "exportedPath": "Med-Surg I/MS-I Class Files/ATI Question homework.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/Clinicals Homework.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 390,
       "exportedPath": "Med-Surg I/MS-I Class Files/Clinicals Homework.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/Exam I.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2102,
       "exportedPath": "Med-Surg I/MS-I Class Files/Exam I.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/Exam II.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 843,
       "exportedPath": "Med-Surg I/MS-I Class Files/Exam II.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/Weekly Topics.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5258,
       "exportedPath": "Med-Surg I/MS-I Class Files/Weekly Topics.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Cardiovascular/CAD & MI.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5418,
       "exportedPath": "Med-Surg I/Notes/Cardiovascular/CAD & MI.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Cardiovascular/Cardiovascular v2.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 4647,
       "exportedPath": "Med-Surg I/Notes/Cardiovascular/Cardiovascular v2.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Cardiovascular/EKG.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5008,
       "exportedPath": "Med-Surg I/Notes/Cardiovascular/EKG.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Cardiovascular/Endocarditis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3221,
       "exportedPath": "Med-Surg I/Notes/Cardiovascular/Endocarditis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Cardiovascular/Heart Failure.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2245,
       "exportedPath": "Med-Surg I/Notes/Cardiovascular/Heart Failure.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Diabetes T1.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3178,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Diabetes T1.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Diabetes T2.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2524,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Diabetes T2.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Hyperglycemia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2167,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Hyperglycemia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Hyperthyroidism.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 4215,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Hyperthyroidism.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Hypoglycemia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2021,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Hypoglycemia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Hypothyroidism.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3205,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Hypothyroidism.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Endocrine/Metabolic Syndrome.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2164,
       "exportedPath": "Med-Surg I/Notes/Endocrine/Metabolic Syndrome.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Hepatic/Alcoholic Liver Disease.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2931,
       "exportedPath": "Med-Surg I/Notes/GI/Hepatic/Alcoholic Liver Disease.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Hepatic/Cirrhosis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3403,
       "exportedPath": "Med-Surg I/Notes/GI/Hepatic/Cirrhosis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Hepatic/Fatty Liver - Steatotic Liver Disease.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3833,
       "exportedPath": "Med-Surg I/Notes/GI/Hepatic/Fatty Liver - Steatotic Liver Disease.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Hepatic/Hepatitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 4763,
       "exportedPath": "Med-Surg I/Notes/GI/Hepatic/Hepatitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Intestinal/Bowel Obstruction.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3012,
       "exportedPath": "Med-Surg I/Notes/GI/Intestinal/Bowel Obstruction.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Intestinal/Celiac's Disease.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 979,
       "exportedPath": "Med-Surg I/Notes/GI/Intestinal/Celiac's Disease.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Intestinal/Diverticulitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1952,
       "exportedPath": "Med-Surg I/Notes/GI/Intestinal/Diverticulitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Intestinal/Irritable Bowel Diseases.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2484,
       "exportedPath": "Med-Surg I/Notes/GI/Intestinal/Irritable Bowel Diseases.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Cholecystitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3846,
       "exportedPath": "Med-Surg I/Notes/GI/Cholecystitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Gastric Ulcers.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2732,
       "exportedPath": "Med-Surg I/Notes/GI/Gastric Ulcers.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Gastritis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1402,
       "exportedPath": "Med-Surg I/Notes/GI/Gastritis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Gastroparesis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1748,
       "exportedPath": "Med-Surg I/Notes/GI/Gastroparesis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/GERD.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2484,
       "exportedPath": "Med-Surg I/Notes/GI/GERD.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/GI Bleed.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1674,
       "exportedPath": "Med-Surg I/Notes/GI/GI Bleed.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Hiatal Hernia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3053,
       "exportedPath": "Med-Surg I/Notes/GI/Hiatal Hernia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Oral Esophageal.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 4480,
       "exportedPath": "Med-Surg I/Notes/GI/Oral Esophageal.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Pancreatitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3296,
       "exportedPath": "Med-Surg I/Notes/GI/Pancreatitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GI/Peritonitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2164,
       "exportedPath": "Med-Surg I/Notes/GI/Peritonitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Urinary Conditions/BPH.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1597,
       "exportedPath": "Med-Surg I/Notes/GU/Urinary Conditions/BPH.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Urinary Conditions/Incontinence.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1811,
       "exportedPath": "Med-Surg I/Notes/GU/Urinary Conditions/Incontinence.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Urinary Conditions/Retention.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1694,
       "exportedPath": "Med-Surg I/Notes/GU/Urinary Conditions/Retention.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Urinary Conditions/UTI.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2081,
       "exportedPath": "Med-Surg I/Notes/GU/Urinary Conditions/UTI.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/AKI.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2803,
       "exportedPath": "Med-Surg I/Notes/GU/AKI.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/CKD.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5529,
       "exportedPath": "Med-Surg I/Notes/GU/CKD.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Dialysis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3234,
       "exportedPath": "Med-Surg I/Notes/GU/Dialysis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/ESRD.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3198,
       "exportedPath": "Med-Surg I/Notes/GU/ESRD.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Glomerulonephritis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2632,
       "exportedPath": "Med-Surg I/Notes/GU/Glomerulonephritis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Pylonephritis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1746,
       "exportedPath": "Med-Surg I/Notes/GU/Pylonephritis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/GU/Renal Calculi.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1739,
       "exportedPath": "Med-Surg I/Notes/GU/Renal Calculi.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Hematological/Hematological everything else.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5112,
       "exportedPath": "Med-Surg I/Notes/Hematological/Hematological everything else.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Hematological/Vitamin Deficiency Anemia (pernicious).md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1465,
       "exportedPath": "Med-Surg I/Notes/Hematological/Vitamin Deficiency Anemia (pernicious).html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Anaphylaxis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Anaphylaxis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Bacterial & Viral Infections.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Bacterial & Viral Infections.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Gout.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Gout.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Influenza.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Influenza.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Lupus.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Lupus.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Meningitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Meningitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Osteoarthritis.md": {
-      "modifiedTime": 1740068096573,
-      "sourceSize": 143,
+      "modifiedTime": 1740099953171,
+      "sourceSize": 3155,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Osteoarthritis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Peritonitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 70,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Peritonitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Rheumatoid Arthritis.md": {
-      "modifiedTime": 1740068096573,
-      "sourceSize": 143,
+      "modifiedTime": 1740099953171,
+      "sourceSize": 3731,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Rheumatoid Arthritis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/Sinusitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/Sinusitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Msk/Fractures.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Msk/Fractures.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Msk/Sprains.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 143,
       "exportedPath": "Med-Surg I/Notes/Msk/Sprains.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Cerebral Edema.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2018,
       "exportedPath": "Med-Surg I/Notes/Neuro/Cerebral Edema.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Head Injuries.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3673,
       "exportedPath": "Med-Surg I/Notes/Neuro/Head Injuries.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Headaches.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 6801,
       "exportedPath": "Med-Surg I/Notes/Neuro/Headaches.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Parkinson's.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3171,
       "exportedPath": "Med-Surg I/Notes/Neuro/Parkinson's.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Peripheral Neuropathy.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 153,
       "exportedPath": "Med-Surg I/Notes/Neuro/Peripheral Neuropathy.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Seizures.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3176,
       "exportedPath": "Med-Surg I/Notes/Neuro/Seizures.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Stroke.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2192,
       "exportedPath": "Med-Surg I/Notes/Neuro/Stroke.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/Asthma.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 6262,
       "exportedPath": "Med-Surg I/Notes/Respiratory/Asthma.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/ATI Comp - Resp.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 514,
       "exportedPath": "Med-Surg I/Notes/Respiratory/ATI Comp - Resp.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/COPD.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2287,
       "exportedPath": "Med-Surg I/Notes/Respiratory/COPD.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/Hemothorax.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1608,
       "exportedPath": "Med-Surg I/Notes/Respiratory/Hemothorax.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/OSA.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2964,
       "exportedPath": "Med-Surg I/Notes/Respiratory/OSA.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/Pneumonia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2244,
       "exportedPath": "Med-Surg I/Notes/Respiratory/Pneumonia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/Pneumothorax.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1866,
       "exportedPath": "Med-Surg I/Notes/Respiratory/Pneumothorax.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Respiratory/Pulmonary Edema.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1901,
       "exportedPath": "Med-Surg I/Notes/Respiratory/Pulmonary Edema.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Acid Base Balance.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1064,
       "exportedPath": "Med-Surg I/Notes/Acid Base Balance.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Fluid & Electrolyte ATI.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 13943,
       "exportedPath": "Med-Surg I/Notes/Fluid & Electrolyte ATI.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Fluid Electrolyte Cheat Sheets.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 4219,
       "exportedPath": "Med-Surg I/Notes/Fluid Electrolyte Cheat Sheets.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Perioperative Care.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 5233,
       "exportedPath": "Med-Surg I/Notes/Perioperative Care.html",
       "dependencies": []
     },
     "Med-Surg II/Neuro/ICP.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 23,
       "exportedPath": "Med-Surg II/Neuro/ICP.html",
       "dependencies": []
     },
     "Med-Surg II/Neuro/Subarachnoid Hemorrhage.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 23,
       "exportedPath": "Med-Surg II/Neuro/Subarachnoid Hemorrhage.html",
       "dependencies": []
     },
     "Med-Surg II/Neuro/TBI.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 23,
       "exportedPath": "Med-Surg II/Neuro/TBI.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Cognition/Alzheimers.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2119,
       "exportedPath": "Med-Surg I/Notes/Neuro/Cognition/Alzheimers.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Cognition/Delirium.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2841,
       "exportedPath": "Med-Surg I/Notes/Neuro/Cognition/Delirium.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Cognition/Dementia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2557,
       "exportedPath": "Med-Surg I/Notes/Neuro/Cognition/Dementia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/ALS.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 151,
       "exportedPath": "Med-Surg I/Notes/Neuro/ALS.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Meningitis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 120,
       "exportedPath": "Med-Surg I/Notes/Neuro/Meningitis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/TIA.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1455,
       "exportedPath": "Med-Surg I/Notes/Neuro/TIA.html",
       "dependencies": []
     },
     "Pharmacology/CardioVascular/Anticoagulants.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2144,
       "exportedPath": "Pharmacology/CardioVascular/Anticoagulants.html",
       "dependencies": []
     },
     "Pharmacology/CardioVascular/Antiplatelets.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1720,
       "exportedPath": "Pharmacology/CardioVascular/Antiplatelets.html",
       "dependencies": []
     },
     "Pharmacology/Triptans.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1448,
       "exportedPath": "Pharmacology/Triptans.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Immunity & Inflammation/HIV-AIDS.md": {
-      "modifiedTime": 1740068096573,
-      "sourceSize": 3110,
+      "modifiedTime": 1740099953171,
+      "sourceSize": 3331,
       "exportedPath": "Med-Surg I/Notes/Immunity & Inflammation/HIV-AIDS.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Aneurysms.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 1939,
       "exportedPath": "Med-Surg I/Notes/Neuro/Aneurysms.html",
       "dependencies": []
     },
     "Med-Surg I/MS-I Class Files/Exam III.md": {
-      "modifiedTime": 1740068096573,
-      "sourceSize": 2592,
+      "modifiedTime": 1740099953171,
+      "sourceSize": 2628,
       "exportedPath": "Med-Surg I/MS-I Class Files/Exam III.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Hematological/Anemia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 3047,
       "exportedPath": "Med-Surg I/Notes/Hematological/Anemia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Hematological/DVT.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2184,
       "exportedPath": "Med-Surg I/Notes/Hematological/DVT.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Hematological/Sickle Cell Anemia.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 2377,
       "exportedPath": "Med-Surg I/Notes/Hematological/Sickle Cell Anemia.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Neuro/Multiple Sclerosis.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 152,
       "exportedPath": "Med-Surg I/Notes/Neuro/Multiple Sclerosis.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/Oncologic & Degenerative/Cancer.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 0,
       "exportedPath": "Med-Surg I/Notes/Oncologic & Degenerative/Cancer.html",
       "dependencies": []
     },
     "Med-Surg I/Notes/End of Life.md": {
-      "modifiedTime": 1740068096573,
+      "modifiedTime": 1740099953171,
       "sourceSize": 0,
       "exportedPath": "Med-Surg I/Notes/End of Life.html",
+      "dependencies": []
+    },
+    "Foundations/Isolation & Precautions/Neutropenic Precautions.md": {
+      "modifiedTime": 1740099953171,
+      "sourceSize": 2931,
+      "exportedPath": "Foundations/Isolation & Precautions/Neutropenic Precautions.html",
+      "dependencies": []
+    },
+    "Med-Surg I/Notes/Msk/Osteoporosis.md": {
+      "modifiedTime": 1740099953171,
+      "sourceSize": 3240,
+      "exportedPath": "Med-Surg I/Notes/Msk/Osteoporosis.html",
+      "dependencies": []
+    },
+    "Pharmacology/Analgesia/Analgesia.md": {
+      "modifiedTime": 1740099953171,
+      "sourceSize": 2973,
+      "exportedPath": "Pharmacology/Analgesia/Analgesia.html",
+      "dependencies": []
+    },
+    "Pharmacology/Analgesia/Antipyretic and Anti-Inflammatory.md": {
+      "modifiedTime": 1740099953171,
+      "sourceSize": 4629,
+      "exportedPath": "Pharmacology/Analgesia/Antipyretic and Anti-Inflammatory.html",
+      "dependencies": []
+    },
+    "Pharmacology/Analgesia/Opioids.md": {
+      "modifiedTime": 1740099953171,
+      "sourceSize": 1621,
+      "exportedPath": "Pharmacology/Analgesia/Opioids.html",
+      "dependencies": []
+    },
+    "Pharmacology/Immunosuppressants/DMARDs.md": {
+      "modifiedTime": 1740099953171,
+      "sourceSize": 2248,
+      "exportedPath": "Pharmacology/Immunosuppressants/DMARDs.html",
       "dependencies": []
     }
   }
