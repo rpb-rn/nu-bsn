@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BSN-NU]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>BSN-NU</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 21 Sep 2025 17:46:47 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 21 Sep 2025 17:46:44 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Psychopharm]]></title><description><![CDATA[updated 9/19
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BSN-NU]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>BSN-NU</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 21 Sep 2025 18:06:40 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 21 Sep 2025 18:06:36 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Psychopharm]]></title><description><![CDATA[updated 9/19
 neurons =&gt; brain tissue n shit
 Neurotransmitters - key and lock system (neurotransmitter: key; receptor site: lock); then they are either: Reuptake: neurotransmitter is stored for reuse or broken down
 Inactivated =&gt; prevents continuous stimulation of receptors (Acetylcholinesterase, Monoamine Oxidases, Catechol-O-Methyltransferase) see =&gt; <a data-href="Neurotransmitters" href="psych/ii.-relationship-building/neurotransmitters.html" class="internal-link" target="_self" rel="noopener nofollow">Neurotransmitters</a>Genetics
@@ -54,6 +54,7 @@ Nursing Intervention: monitoring fluid and electrolytes, initiating cooling meas
 Treatment: dopaminergic agent, such as bromocriptine, or a skeletal muscle relaxing medication such as dantrolene
 Extrapyramidal Symptoms (EPS)
 effect of blocking dopamine transmission from the midbrain to the brainstem.
+<br>Caused by First Gen <a data-href="Antipsychotics" href="pharmacology/psych-meds/antipsychotics/antipsychotics.html" class="internal-link" target="_self" rel="noopener nofollow">Antipsychotics</a> =&gt; HALDOL
 Types: Akathisia: Restlessness, pacing, fidgeting
 Dystonia: Muscle stiffness, spasms, locked gaze
 Parkinsonism: Tremors, rigidity, slow movements, slumped posture, shuffling gait, drooling, tremors, and pill-rolling movements of the fingers
@@ -61,8 +62,8 @@ Tardive dyskinesia: Involuntary movements of the face, tongue, and limbs Treatme
 Agranulocytosis
 <br>caused by <a data-href="Antipsychotics" href="pharmacology/psych-meds/antipsychotics/antipsychotics.html" class="internal-link" target="_self" rel="noopener nofollow">Antipsychotics</a> =&gt; usually Clozaril / Clozipine (Atypical, or <a data-href="Second Gen Antipsychotics" href="pharmacology/psych-meds/antipsychotics/second-gen-antipsychotics.html" class="internal-link" target="_self" rel="noopener nofollow">Second Gen Antipsychotics</a>)
 Manifestations: flu-like, fatigue, sore throat, fatigue, fever, muscle aches
-very dangerous
-Alcohol Withdrawal
+very dangerous (WBC less than 3,500)
+ref WBC range: male 4,500-11,000 / female 4,000-10,000 Alcohol Withdrawal
 prolonged CNS depressant =&gt; decreased GABA, increased, Gluatamate
 heart rate, increased blood pressure, nausea, vomiting, increased seizure risk, and hallucinations
 Treatment: benzodiazepine
@@ -80,7 +81,7 @@ rate severity of withdrawal manifestations
 calculate sum of categories
 calculate med dose per orders
 administer meds
-]]></description><link>psych/ii.-relationship-building/psychopharm.html</link><guid isPermaLink="false">Psych/ii. Relationship Building/Psychopharm.md</guid><pubDate>Sun, 21 Sep 2025 17:46:13 GMT</pubDate></item><item><title><![CDATA[Lithium]]></title><description><![CDATA[
+]]></description><link>psych/ii.-relationship-building/psychopharm.html</link><guid isPermaLink="false">Psych/ii. Relationship Building/Psychopharm.md</guid><pubDate>Sun, 21 Sep 2025 18:06:25 GMT</pubDate></item><item><title><![CDATA[Lithium]]></title><description><![CDATA[
 class: <a data-href="Mood Stabilizers" href="pharmacology/psych-meds/mood-stabilizers/mood-stabilizers.html" class="internal-link" target="_self" rel="noopener nofollow">Mood Stabilizers</a>
 long-term treatment =&gt; Lithium Battery - duracell
 0.6-1.2 mEq/L, toxicity happens after 1.5 mEq/L watch out for decreased renal function -&gt; sets stage for toxicity (key: elderly)
